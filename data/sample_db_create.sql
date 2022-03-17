@@ -21,15 +21,6 @@ DROP TABLE IF EXISTS os_pro;
 
 DROP TABLE IF EXISTS produto;
 
--- End of file.
-
-
-
-
--- Created by Vertabelo (http://vertabelo.com)
--- Last modification date: 2022-03-17 18:36:08.629
-
--- tables
 -- Table: categoria
 CREATE TABLE categoria (
     id integer NOT NULL CONSTRAINT categoria_pk PRIMARY KEY,
